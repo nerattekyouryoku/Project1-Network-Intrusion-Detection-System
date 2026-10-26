@@ -1,0 +1,6 @@
+### Day 1: Basic NIDS Prototype
+
+- Learned to use Python lists, dictionaries, loops, and conditional statements for network traffic analysis.
+- Implemented rule-based detection using destination ports.
+- Added alert counting and suspicious source IP tracking.
+- **Next step:** Learn how to capture and analyze real network traffic using Wireshark.
